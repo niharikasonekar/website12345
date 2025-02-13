@@ -48,3 +48,4 @@ let s1=()=>{
     b.innerHTML=a[t.getDay()] 
 }
 
+<
